@@ -10,11 +10,8 @@
 <br />
 
 # **Youtube Video for step by step Demonstration!**
-[![Video Tutorial](https://img.youtube.com/vi/g8X5AoqCJHc/0.jpg)](https://youtu.be/g8X5AoqCJHc)
+[![Video Tutorial](https://youtu.be/g8X5AoqCJHc)](https://youtu.be/g8X5AoqCJHc)
 
-
-## Susbcribe:
-[https://www.youtube.com/](https://www.youtube.com/@cloudchamp?sub_confirmation=1)
 
 # Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
 
@@ -34,4 +31,14 @@
 
 Code → Commit → Jenkins → Build → Scan → Deploy
 
+
 [![](https://img.shields.io/badge/Docker-Build-blue?logo=docker)](https://www.docker.com)
+[![](https://img.shields.io/badge/Jenkins-CI/CD-red?logo=jenkins)](https://www.jenkins.io)
+[![](https://img.shields.io/badge/Kubernetes-Cluster-326ce5?logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![](https://img.shields.io/badge/Trivy-Security-orange?logo=aqua)](https://github.com/aquasecurity/trivy)
+[![](https://img.shields.io/badge/SonarQube-Code_Quality-brightgreen?logo=sonarqube)](https://www.sonarsource.com/products/sonarqube/)
+[![](https://img.shields.io/badge/Prometheus-Metrics-orange?logo=prometheus)](https://prometheus.io)
+[![](https://img.shields.io/badge/Grafana-Dashboards-F46800?logo=grafana)](https://grafana.com)
+[![](https://img.shields.io/badge/AWS-Cloud-232f3e?logo=amazon-aws)](https://aws.amazon.com)
+[![](https://img.shields.io/badge/OWASP-Security-blueviolet?logo=owasp)](https://owasp.org)
+
